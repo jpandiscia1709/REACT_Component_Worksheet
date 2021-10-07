@@ -13,6 +13,36 @@ class App extends Component {
       lastName: 'White',
 
       newNames: ['Mike', 'Nevin', 'Aaron', 'Tory', 'Kelly'],  
+    
+   superheroes: [
+    {
+        superheroId: 1,
+        name: 'Batman',
+        primaryAbility: 'Wealthy',
+        secondarAbility: 'Rich'
+    },
+    {
+        superheroId: 2,
+        name: 'Superman',
+        primaryAbility: 'Super strength',
+        secondarAbility: 'Fly'
+    },
+    {
+        superheroId: 3,
+        name: 'Spiderman',
+        primaryAbility: 'Spider senses',
+        secondarAbility: 'Shoots web'
+    }
+]
+    
+    
+    
+    
+    
+    
+    
+    
+    
     }
   }
   
